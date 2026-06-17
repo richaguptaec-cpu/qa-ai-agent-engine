@@ -162,8 +162,9 @@ Replace the placeholders below with your actual screenshots once you run the app
 
 ### 🔹 Generated Structured Test Matrix
 
-**Figure 2 , 3, 4:** Comprehensive matrix output illustrating categorized validation blocks and extracted criteria schemas.
+**Figure 2 , 3, 4 & 5:** Comprehensive matrix output illustrating categorized validation blocks and extracted criteria schemas.
 <img width="953" height="478" alt="image" src="https://github.com/user-attachments/assets/93c565e5-de72-4537-8e17-dadc11c6323d" />
+<img width="953" height="469" alt="image" src="https://github.com/user-attachments/assets/18cd8cc7-96b1-4e12-a5f8-4e91c624d271" />
 <img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/2de3178d-a414-43a3-8bdc-dff191d456ca" />
 <img width="956" height="429" alt="image" src="https://github.com/user-attachments/assets/765de297-35c0-422e-a19c-716e86f50b25" />
 
